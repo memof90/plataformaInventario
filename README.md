@@ -27,6 +27,10 @@ crearlas no puede editar o eliminar
 
 ![alt text](https://i.postimg.cc/Dm3JJ1by/screencapture-lascteosbelen-000webhostapp-inicio-2021-01-05-17-07-01.png)
 
+## usuarios
+- [x] admin
+- [x] admin1234 
+
 ## url del sitio 
 https://lascteosbelen.000webhostapp.com/ingreso
 
